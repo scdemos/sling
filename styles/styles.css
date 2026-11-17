@@ -152,6 +152,9 @@
   --body-line-height: 1.6;
 
   /* nav / layout */
+  --nav-text-transform: none;
+  --nav-letter-spacing: normal;
+  --h2-accent-display: none;
   --nav-height: 73px;
   --header-height: var(--nav-height);
 
@@ -320,7 +323,7 @@ h6 {
   margin-top: 0.8em;
   margin-bottom: 0.4em;
   font-family: var(--heading-font-family);
-  font-weight: 500;
+  font-weight: 700;
   line-height: var(--heading-line-height);
   scroll-margin: 40px;
 }

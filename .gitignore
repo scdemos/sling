@@ -23,3 +23,7 @@ tasks/todo.md
 
 # customer-demo skill run state (resume file, local only)
 .customer-demo/
+
+# customer-demo working output
+scrape/
+fid/
